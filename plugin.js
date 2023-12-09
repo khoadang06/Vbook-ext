@@ -1,4 +1,4 @@
-`{
+{
   "metadata": {
     "author": "Nahona",
     "description": "Nahona"
@@ -17,4 +17,3 @@
     }
   ]
 }
-`
