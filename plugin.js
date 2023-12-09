@@ -11,7 +11,7 @@
       "version": 1,
       "source": "https://www.bqg9527.net/",
       "icon": "https://raw.githubusercontent.com/Moleys/vbook-ext/main/biqugse/icon.png",
-      "description": "Đọc truyện trên trang ixunshu.net",
+      "description": "Đọc truyện trên trang bqg9527",
       "type": "chinese_novel",
       "locale": "zh_CN"
     }
