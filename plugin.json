@@ -47,6 +47,17 @@
       "description": "Đọc truyện trên trang Xiongmaoxy",
       "type": "chinese_novel",
       "locale": "zh_CN"
+    },
+    {
+      "name": "168txt",
+      "author": "Nahona",
+      "path": "https://github.com/SoulGodEve9x9/Vbook-ext/blob/Nahona/168txt/168txt.zip",
+      "version": 1,
+      "source": "https://www.xiongmaoxy.com/",
+      "icon": "https://github.com/SoulGodEve9x9/Vbook-ext/blob/Nahona/168txt/icon.png",
+      "description": "Đọc truyện trên trang Xiongmaoxy",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
     }
   ]
 }
