@@ -43,7 +43,7 @@
       "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/xiongmaoxy.zip",
       "version": 1,
       "source": "https://www.xiongmaoxy.com/",
-      "icon": "https://github.com/SoulGodEve9x9/Vbook-ext/raw/Nahona/icon.png",
+      "icon": "https://raw.githubusercontent.com/SoulGodEve9x9/Vbook-ext/Nahona/Image/icon.png",
       "description": "Đọc truyện trên trang Xiongmaoxy",
       "type": "chinese_novel",
       "locale": "zh_CN"
@@ -51,10 +51,10 @@
     {
       "name": "168txt",
       "author": "Nahona",
-      "path": "https://github.com/SoulGodEve9x9/Vbook-ext/raw/Nahona/168txt/168txt.zip",
+      "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/168txt.zip",
       "version": 1,
       "source": "https://www.168txt.cc/",
-      "icon": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/blob/Nahona/168txt/icon.png",
+      "icon": "https://raw.githubusercontent.com/SoulGodEve9x9/Vbook-ext/Nahona/icon.png",
       "description": "Đọc truyện trên trang 168txt",
       "type": "chinese_novel",
       "locale": "zh_CN"
