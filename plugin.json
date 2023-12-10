@@ -58,6 +58,17 @@
       "description": "Đọc truyện trên trang 168txt",
       "type": "chinese_novel",
       "locale": "zh_CN"
+    },
+    {
+      "name": "Tâm Linh 247",
+      "author": "Nahona",
+      "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/Tamlinh247.zip",
+      "version": 1,
+      "source": "https://tamlinh247.vn/",
+      "icon": "https://raw.githubusercontent.com/SoulGodEve9x9/Vbook-ext/Nahona/Image/tamlinh.png",
+      "description": "Đọc truyện trên trang Tamlinh247",
+      "type": "novel",
+      "locale": "vi_VN"
     }
   ]
 }
