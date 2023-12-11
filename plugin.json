@@ -91,5 +91,6 @@
       "description": "Đọc truyện trên trang Xiongmaoxy",
       "type": "chinese_novel",
       "locale": "zh_CN"
+    }
   ]
 }
