@@ -91,6 +91,17 @@
       "description": "Đọc truyện trên trang Damixs",
       "type": "chinese_novel",
       "locale": "zh_CN"
+    },
+    {
+      "name": "vvbiquge",
+      "author": "Nahona",
+      "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/vvbiquge.zip",
+      "version": 1,
+      "source": "http://www.vvbiquge.cc/",
+      "icon": "https://raw.githubusercontent.com/Moleys/vbook-ext/main/biqugse/icon.png",
+      "description": "Đọc truyện trên trang vvbiquge",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
     }
   ]
 }
