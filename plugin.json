@@ -69,6 +69,27 @@
       "description": "Đọc truyện trên trang Tamlinh247",
       "type": "novel",
       "locale": "vi_VN"
-    }
+    },
+    {
+      "name": "3qzone",
+      "author": "Nahona",
+      "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/3qzone.zip",
+      "version": 1,
+      "source": "https:www.3qzone.io/",
+      "icon": "https://raw.githubusercontent.com/SoulGodEve9x9/Vbook-ext/Nahona/Image/3qzone.png",
+      "description": "Đọc truyện trên trang 3qzone",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
+      "name": "damixs",
+      "author": "Nahona",
+      "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/damixs.zip",
+      "version": 1,
+      "source": "https://www.xiongmaoxy.com/",
+      "icon": "https://raw.githubusercontent.com/SoulGodEve9x9/Vbook-ext/Nahona/icon.png",
+      "description": "Đọc truyện trên trang Xiongmaoxy",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
   ]
 }
