@@ -63,7 +63,7 @@
       "name": "Tâm Linh 247",
       "author": "Nahona",
       "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/Tamlinh247.zip",
-      "version": 1,
+      "version": 2,
       "source": "https://tamlinh247.vn/",
       "icon": "https://raw.githubusercontent.com/SoulGodEve9x9/Vbook-ext/Nahona/Image/tamlinh.png",
       "description": "Đọc truyện trên trang Tamlinh247",
@@ -134,6 +134,17 @@
       "icon": "https://raw.githubusercontent.com/SoulGodEve9x9/Vbook-ext/Nahona/Image/9y.png",
       "description": "Đọc truyện tranh 18+ (3D Chinese/3D Korean/Manga/...) trên trang 9y02 ",
       "type": "comic",
+      "locale": "zh_CN"
+    },
+    {
+      "name": "94yd",
+      "author": "Nahona",
+      "path": "https://github.com/SoulGodEve9x9/Vbook-ext/raw/Nahona/94yd.zip",
+      "version": 1,
+      "source": "https://m.94yd.com/",
+      "icon": "https://raw.githubusercontent.com/SoulGodEve9x9/Vbook-ext/Nahona/Image/94yd.png",
+      "description": "Đọc truyện trên trang 94yd",
+      "type": "chinese_novel",
       "locale": "zh_CN"
     }
   ]
