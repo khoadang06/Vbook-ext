@@ -146,6 +146,17 @@
       "description": "Đọc truyện trên trang 94yd",
       "type": "chinese_novel",
       "locale": "zh_CN"
+    },
+    {
+      "name": "99txs",
+      "author": "Nahona",
+      "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/99txs.zip",
+      "version": 1,
+      "source": "https://www.99tsx.com/",
+      "icon": "https://raw.githubusercontent.com/SoulGodEve9x9/Vbook-ext/Nahona/Image/99txs.png",
+      "description": "Đọc truyện trên trang 99txs",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
     }
   ]
 }
