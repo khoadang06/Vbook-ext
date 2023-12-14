@@ -5,6 +5,16 @@
   },
   "data": [
     {
+      "name": "rourouwu",
+      "author": "Nahona",
+      "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/rourouwu.zip",
+      "version": 1,
+      "source": "https://wap.rourouwu.com/",
+      "icon": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/Image/rourou.png",
+      "description": "Đọc truyện trên trang rourouwu",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    {
       "name": "book18",
       "author": "Nahona",
       "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/book18.zip",
