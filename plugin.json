@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "8383zw",
+      "author": "Nahona",
+      "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/8383zw.zip",
+      "version": 1,
+      "source": "https://www.8383zw.com/",
+      "icon": "https://raw.githubusercontent.com/SoulGodEve9x9/Vbook-ext/Nahona/Image/3qzone.png",
+      "description": "Đọc truyện trên trang 8383zw",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
       "name": "pi12345",
       "author": "Nahona",
       "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/pi12345.zip",
