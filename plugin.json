@@ -5,6 +5,18 @@
   },
   "data": [
     {
+      "name": "Danbooru",
+      "author": "Nahona",
+      "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/danbooru.zip",
+      "version": 1,
+      "source": "https://danbooru.donmai.us",
+      "icon": "https://danbooru.donmai.us/favicon.ico",
+      "description": "Đọc truyện trên trang Danbooru",
+      "type": "comic",
+      "locale": "",
+      "tag": "nsfw"
+    },
+    {
       "name": "ixdzs8",
       "author": "Nahona",
       "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/ixdzs8.zip",
