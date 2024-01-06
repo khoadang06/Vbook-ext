@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "meiguicom",
+      "author": "Nahona",
+      "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/meiguicom.zip",
+      "version": 1,
+      "source": "https://www.meiguicom.com/",
+      "icon": "https://www.meiguicom.com/static/biquge/favicon.ico",
+      "description": "Đọc truyện trên trang meiguicom",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
       "name": "lwxs",
       "author": "Nahona",
       "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/lwxs.zip",
