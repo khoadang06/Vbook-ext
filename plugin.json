@@ -5,6 +5,18 @@
   },
   "data": [
     {
+      "name": "biqugezz",
+      "author": "Nahona",
+      "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/biqugezz.zip",
+      "version": 1,
+      "source": "https://www.biqugezz.com/",
+      "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/mmdaobaobei/icon.png",
+      "description": "Đọc truyện trên trang biqugezz",
+      "type": "chinese_novel",
+      "tag": "nsfw",
+      "locale": "zh_CN"
+    },
+    {
       "name": "h528",
       "author": "Nahona",
       "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/h528.zip",
