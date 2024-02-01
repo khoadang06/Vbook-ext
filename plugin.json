@@ -5,6 +5,18 @@
   },
   "data": [
     {
+      "name": "Chất Xám",
+      "author": "Nahona",
+      "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/chatxam.zip",
+      "version": 1,
+      "source": "https://chatxam.info/",
+      "icon": "https://chatxam.info/wp-content/uploads/2023/07/cropped-cropped-logo-32x32.png",
+      "description": "Đọc truyện trên trang Chất Xám",
+      "type": "novel",
+      "locale": "vi_VN",
+      "tag": "nsfw"
+    },
+    {
       "name": "99csw",
       "author": "Nahona",
       "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/99csw.zip",
