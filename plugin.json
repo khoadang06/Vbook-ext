@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "Mê Truyện Chữ VN",
+      "author": "Nahona",
+      "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/MeTruyenChu.zip",
+      "version": 1,
+      "source": "https://metruyenchu.com.vn/",
+      "icon": "https://metruyenchu.com.vn/favicon.ico?v=2",
+      "description": "Đọc truyện trên trang MTC",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
       "name": "Zing Truyện",
       "author": "Nahona",
       "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/zingtruyen.zip",
