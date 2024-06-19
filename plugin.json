@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "Xiaoshubao",
+      "author": "Nahona",
+      "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/xiaoshubao.zip",
+      "version": 1,
+      "source": "http://www.xiaoshubao.net",
+      "icon": "http://m.xiaoshubao.net/favicon.ico",
+      "description": "Đọc truyện trên trang Xiaoshubao",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
       "name": "Top Truyện",
       "author": "Nahona",
       "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/toptruyenx.zip",
