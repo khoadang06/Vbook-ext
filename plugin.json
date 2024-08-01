@@ -5,6 +5,17 @@
   },
   "data": [
     {
+      "name": "4ksw",
+      "author": "Nahona",
+      "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/4ksw.zip",
+      "version": 1,
+      "source": "http://4ksw.com/",
+      "icon": "http://4ksw.com/favicon.ico",
+      "description": "Đọc truyện trên trang 4ksw",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
       "name": "Xiaoshubao",
       "author": "Nahona",
       "path": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/xiaoshubao.zip",
