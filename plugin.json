@@ -8,9 +8,9 @@
       "name": "Top Truyện",
       "author": "Nahona",
       "path": "https://raw.github.com/khoadang06/Vbook-ext/Local/toptruyenx.zip",
-      "version": 13,
-      "source": "https://www.toptruyenpro1.com/",
-      "icon": "https://www.toptruyenpro1.com/images/logo/logonew1.png",
+      "version": 14,
+      "source": "https://www.toptruyenday.net/",
+      "icon": "https://www.toptruyenday.net/images/logo/logonew1.png",
       "description": "Đọc truyện trên trang Top Truyện",
       "type": "comic",
       "locale": "vi_VN"
