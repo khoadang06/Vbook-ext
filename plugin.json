@@ -5,12 +5,12 @@
   },
   "data": [
     {
-      "name": "Top Truyện",
+      "name": "Top Truyện II",
       "author": "Nahona",
       "path": "https://raw.github.com/khoadang06/Vbook-ext/Local/toptruyenx.zip",
-      "version": 14,
-      "source": "https://www.toptruyenday.net/",
-      "icon": "https://www.toptruyenday.net/images/logo/logonew1.png",
+      "version": 15,
+      "source": "https://www.toptruyentv.net/",
+      "icon": "https://www.toptruyentv.net/images/logo/logonew1.png",
       "description": "Đọc truyện trên trang Top Truyện",
       "type": "comic",
       "locale": "vi_VN"
