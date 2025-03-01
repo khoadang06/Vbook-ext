@@ -7,10 +7,10 @@
     {
       "name": "Top Truyện II",
       "author": "Nahona",
-      "path": "https://raw.github.com/khoadang06/Vbook-ext/Local/toptruyenx.zip",
-      "version": 15,
-      "source": "https://www.toptruyentv.net/",
-      "icon": "https://www.toptruyentv.net/images/logo/logonew1.png",
+      "path": "https://raw.github.com/khoadang06/Vbook-ext/Local/toptruyenx/toptruyenx.zip",
+      "version": 16,
+      "source": "https://www.toptruyentv.pro/",
+      "icon": "https://www.toptruyentv.pro/images/logo/logonew1.png",
       "description": "Đọc truyện trên trang Top Truyện",
       "type": "comic",
       "locale": "vi_VN"

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "Top Truyện II",
+    "author": "Nahona",
+    "version": 16,
+    "source": "https://www.toptruyentv.pro/",
+    "regexp": "(www\\.)?(toptruyento\\.pro|doctruyen3qx\\.pro|toptruyentv\\.pro)/truyen-tranh/(.*?)/(.*?)",
+    "description": "",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "chap": "chap.js"
+  }
+}
