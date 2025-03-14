@@ -1,0 +1,1 @@
+- Sua src/config.js va 2 file plugin.json xong roi nem vo zip
