@@ -4,7 +4,7 @@
     "author": "Nahona",
     "version": 19,
     "source": "https://www.toptruyentv5.pro/",
-    "regexp": "(www\\.)?(toptruyento\\.pro|doctruyen3qx\\.pro|toptruyentv3\\.pro|toptruyentv5\\.pro)/truyen-tranh/(.*?)/(.*?)",
+    "regexp": "(www\\.)?(toptruyento\\.pro|doctruyen3qx\\.pro|toptruyentv3\\.pro|toptruyentv5\\.pro|toptruyentv6\\.pro)/truyen-tranh/(.*?)/(.*?)",
     "description": "",
     "locale": "vi_VN",
     "language": "javascript",
