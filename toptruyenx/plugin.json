@@ -2,9 +2,9 @@
   "metadata": {
     "name": "Top Truyện II",
     "author": "Nahona",
-    "version": 26,
-    "source": "https://www.toptruyentv14.com/",
-    "regexp": "(www\\.)?(toptruyento\\.pro|doctruyen3qx\\.pro|toptruyentv12\\.com|toptruyentv14\\.com)/truyen-tranh/(.*?)/(.*?)",
+    "version": 27,
+    "source": "https://www.toptruyenxi.com/",
+    "regexp": "(www\\.)?(doctruyen3qx\\.pro|toptruyenxi\\.com)/truyen-tranh/(.*?)/(.*?)",
     "description": "",
     "locale": "vi_VN",
     "language": "javascript",
