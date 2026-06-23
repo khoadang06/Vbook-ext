@@ -1,4 +1,4 @@
-let BASE_URL = 'https://www.toptruyenzone3.com';
+let BASE_URL = 'https://www.toptruyenzone4.com';
 let BASE_URL1 = 'https://doctruyen3qx.pro'
 try {
     if (CONFIG_URL) {
